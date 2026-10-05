@@ -1,0 +1,51 @@
+{
+  "count": 8,
+  "total": 268.48,
+  "categories": [
+    "Games"
+  ],
+  "top3": [
+    {
+      "id": 2,
+      "name": "Gta V",
+      "category": "Games",
+      "price": 38.56,
+      "tags": [
+        "Games",
+        "Multiplayer"
+      ],
+      "author": {
+        "name": "Rockstar Games",
+        "country": "USA"
+      }
+    },
+    {
+      "id": 5,
+      "name": "EA Sports FIFA 23",
+      "category": "Games",
+      "price": 37.56,
+      "tags": [
+        "Games",
+        "Multiplayer"
+      ],
+      "author": {
+        "name": "EA Games",
+        "country": "USA"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Batlefield 2042",
+      "category": "Games",
+      "price": 32.56,
+      "tags": [
+        "Games",
+        "Multiplayer"
+      ],
+      "author": {
+        "name": "EA Games",
+        "country": "USA"
+      }
+    }
+  ]
+}
